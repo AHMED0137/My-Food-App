@@ -1,0 +1,11 @@
+.card_container {
+  width: 80%;
+}
+.progress_circle {
+  font-size: 50px;
+  margin: 5%;
+  text-align: center;
+}
+.circle {
+  font-variant: inherit;
+}
