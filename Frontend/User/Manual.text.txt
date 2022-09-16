@@ -1,0 +1,7 @@
+1.Run the Project with npm Start.
+2.Sign Up first to run the project.
+3.User can see all listed food with there detail
+4.Filter Foods if you want.
+5.Select any category from Breakfast, Lunch, Dinner.
+6.Search Food if you want to see specific one using search bar.
+7.Can add item to cart by clicking button " Order Now ".

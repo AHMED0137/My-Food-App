@@ -1,0 +1,15 @@
+1.Run the Project with npm Start.
+2.Sign in first to run the project.
+3.Admin can see all listed food with there detail.
+4.Filter Foods if you want using drawer button on left side of screen.
+5.Select any category from Breakfast, Lunch, Dinner.
+6.Search Food if you want to see specific one using search bar.
+7.Can add new item by clicking button " Add Food ".
+8.Fill detail then click on " Add " that item will be added in database.
+9.Update existing item record.
+10.First select any food then click on update.
+11.Update whatever you want to update and click on " Update " data will be updated and show imediately.
+12.Delete item by clicking on " Delete " button but first you have to select a item to delete. 
+13.After click on " Delete "that record will be deleted and updated data will be show imediately.
+ 
+ 
