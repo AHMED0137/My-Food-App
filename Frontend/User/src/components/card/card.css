@@ -1,0 +1,53 @@
+.order-button {
+  margin-left: 25%;
+}
+.main_grid {
+  margin: 5%;
+}
+.food_details {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.category {
+  right: 0;
+  font-size: 0.75rem;
+  color: #d500f9;
+  position: absolute;
+  font-weight: 1, 300;
+  text-transform: capitalize;
+}
+.food_Name {
+  text-transform: capitalize;
+}
+.category_price {
+  right: 0;
+  font-size: 0.75rem;
+  margin-top: 5%;
+  text-transform: capitalize;
+  color: gray;
+  position: absolute;
+  font-weight: 1, 300;
+}
+.category_calories {
+  font-size: 0.75rem;
+  text-transform: capitalize;
+  color: gray;
+  font-weight: 1, 300;
+}
+.ingredients {
+  font-size: 0.75rem;
+  text-transform: capitalize;
+  color: gray;
+  font-weight: 1, 300;
+}
+.description {
+  font-size: 0.75rem;
+  text-transform: capitalize;
+  color: gray;
+  font-weight: 1, 300;
+}
+.sub_heading {
+  color: black;
+}
